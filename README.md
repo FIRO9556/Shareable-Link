@@ -30,4 +30,4 @@ This document serves as a comprehensive guide to the project's progress and task
 3. Use the information provided to facilitate better task management within your team.
 
 ## Contact
-For any questions or further information, please reach out to Firomsa Lemi Nigussie.
+For any questions or further information, please reach out to Firomsa Lemi Nigussie  by email account firomsa.lemi5@gmail.com
